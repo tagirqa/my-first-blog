@@ -1,0 +1,55 @@
+#title_blog {
+    font-family: Pacifico, cursive;
+    text-shadow: 1px 0px 0px black;
+    border-bottom-style: solid;
+    margin-left: 0px
+}
+
+#menu {
+    font-family: 'Times New Roman', serif;
+    word-spacing: 200px;
+    font-weight: 500;
+    
+}
+
+.fa {
+    margin-left: 10px;
+    font-size: 150%;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+    text-decoration: none;
+}
+.content {
+    margin-left: 10px;
+    }
+#publ {
+    font-family: 'Times New Roman', cursive;
+    font-style: italic;
+}
+
+#post_title {
+    font-family: 'Times New Roman', cursive;  
+    text-shadow: 1px 1px 4px black;
+}
+
+#some_text {
+    font-family: 'Times New Roman', cursive;
+    font-size: 120%;
+    background: #CDD0D1;
+    border: 1px solid black;
+    padding: 10px;
+}

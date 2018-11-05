@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9cdf80f-5ea5-4850-94a9-7e91e66fac0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tagirqablog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tagirqablog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tagirqablog$manage.coverage" NAME="manage Coverage Results" MODIFIED="1541077073317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tagirqablog$cat_tamogochi.coverage" NAME="cat_tamogochi Coverage Results" MODIFIED="1541274635316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/tagirqa/Новый том/prog/Christina_Python/cat_tamogochi" />
+    <SUITE FILE_PATH="coverage/tagirqablog$s_p.coverage" NAME="s_p Coverage Results" MODIFIED="1541266411695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/tagirqa/Новый том/prog/Christina_Python/s_p" />
+    <SUITE FILE_PATH="coverage/tagirqablog$tamagochi.coverage" NAME="tamagochi Coverage Results" MODIFIED="1541281674802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/tagirqa/Новый том/prog/Christina_Python/tamagochi" />
+    <SUITE FILE_PATH="coverage/tagirqablog$app.coverage" NAME="app Coverage Results" MODIFIED="1540319107591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/tagirqa/Новый том/prog/Christina_Python/new_project" />
+    <SUITE FILE_PATH="coverage/tagirqablog$file_json.coverage" NAME="file_json Coverage Results" MODIFIED="1541189723649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/tagirqa/Новый том/prog/Christina_Python/file_json" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -17,88 +26,52 @@
     <session id="-403545055">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.5" value="12" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="py" value="9" />
+          <entry key="css" value="1" />
+          <entry key="html" value="55" />
+          <entry key="py" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="Python" value="9" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="55" />
+          <entry key="Python" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="556" />
-          <entry key="py" value="380" />
+          <entry key="html" value="17474" />
+          <entry key="py" value="9965" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="556" />
+          <entry key="HTML" value="17474" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="380" />
+          <entry key="Python" value="9965" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tagirqablog/settings.py">
+        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1701">
-              <caret line="112" column="15" lean-forward="true" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -106,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="95">
+              <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -116,10 +89,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+            <state>
+              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tagirqablog/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -130,6 +121,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -139,13 +131,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blog/models.py" />
-        <option value="$PROJECT_DIR$/blog/admin.py" />
-        <option value="$PROJECT_DIR$/tagirqablog/urls.py" />
-        <option value="$PROJECT_DIR$/blog/urls.py" />
-        <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/home (копия).html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/Forms.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/aboutme.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/resume.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/models.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/education.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/hobbies.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/portfolio.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/recommendations.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/connect.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/home.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/_base.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/new_project/templates/about_me.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/templates/home.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/templates/education.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/templates/about_me.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/templates/hobbies.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/templates/_base.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/templates/recommendations.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/models.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/resume.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/config.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/file_json/file_json.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/resume/templates/portfolio.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/s_p/s_p.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/cooking/cooking_diary/cooking_diary/settings.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/cat_tamogochi/cat_tamogochi.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/tamogochi/tamogochi.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/resume/templates/portfolio.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/cooking_diary/cooking_diary/settings.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/cooking_diary/cooking/models.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/cooking_diary/cooking/admin.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/settings.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/admin.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/plan_list.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/log_in.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/dear_diary/settings.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/urls.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/views.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/templates/login.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/templates/register.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/models.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/forms.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/base.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/dear_diary/urls.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/urls.py" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/home.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/dairy_book.html" />
+        <option value="/media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/views.py" />
+        <option value="$PROJECT_DIR$/blog/templates/blog/base.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
-        <option value="$PROJECT_DIR$/tagirqablog/settings.py" />
       </list>
     </option>
   </component>
@@ -155,11 +191,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="283" />
-    <option name="y" value="98" />
-    <option name="width" value="1334" />
-    <option name="height" value="887" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-184" />
+    <option name="y" value="375" />
+    <option name="width" value="1900" />
+    <option name="height" value="522" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -167,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,10 +238,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -223,7 +260,117 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tamagochi">
+    <configuration name="cat_tamogochi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tagirqablog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/media/tagirqa/Новый том/prog/Christina_Python/cat_tamogochi" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/media/tagirqa/Новый том/prog/Christina_Python/cat_tamogochi/cat_tamogochi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tagirqablog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/media/tagirqa/Новый том/prog/Christina_Python/file_json" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/media/tagirqa/Новый том/prog/Christina_Python/file_json/file_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tagirqablog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s_p" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tagirqablog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/media/tagirqa/Новый том/prog/Christina_Python/s_p" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/media/tagirqa/Новый том/prog/Christina_Python/s_p/s_p.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tamagochi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tagirqablog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/media/tagirqa/Новый том/prog/Christina_Python/tamagochi" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/media/tagirqa/Новый том/prog/Christina_Python/tamagochi/tamagochi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tagirqablog" type="Python.DjangoServer" factoryName="Django server">
       <module name="tagirqablog" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,6 +395,23 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.tagirqablog" />
+      <item itemvalue="Python.file_json" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.s_p" />
+      <item itemvalue="Python.cat_tamogochi" />
+      <item itemvalue="Python.tamagochi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tamagochi" />
+        <item itemvalue="Python.cat_tamogochi" />
+        <item itemvalue="Python.s_p" />
+        <item itemvalue="Python.file_json" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -271,24 +435,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="283" y="98" width="1334" height="887" extended-state="0" />
+    <frame x="0" y="-1" width="1920" height="1053" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25931677" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.21931697" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.3275862" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053364" side_tool="true" weight="0.3275862" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3297414" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -308,67 +472,231 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tagirqablog/urls.py">
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/Forms.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/templates/_base.html" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/templates/recommendations.html" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/models.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/resume.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/config.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/templates/home.html" />
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/file_json/file_json.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-584508810/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5370" lean-forward="true" selection-start-line="5370" selection-end-line="5370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/cat_tamogochi/cat_tamogochi.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/tamogochi/tamogochi.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/resume/templates/portfolio.html" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/cooking/cooking_diary/cooking_diary/settings.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/tamagochi/tamagochi.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/tamagochi/tamagochi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/resume/templates/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="24" column="70" lean-forward="true" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/s_p/s_p.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/cooking_diary/cooking_diary/settings.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/cooking_diary/cooking/models.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/cooking_diary/cooking/admin.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/settings.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/diary_url.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/diary_urls.py" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/about_me.html" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/_base.html" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/log_in.html" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/plan_list.html" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/dear_diary/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/resume/templates/recommendations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+            <marker date="1541369489956" expanded="true" signature="901:952" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/loginsys/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/dear_diary/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/dairy_book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1541411810952" expanded="true" signature="91:343" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="119" selection-start-line="16" selection-start-column="103" selection-end-line="16" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/tagirqa/Новый том/prog/Christina_Python/for_github/dear_diary/diary/templates/diary/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tagirqablog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="112" column="15" lean-forward="true" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
+        <state relative-caret-position="42">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>

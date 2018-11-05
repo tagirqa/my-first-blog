@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Blog by Suleymanov Tagir</title>
+
+        <!-- Последняя компиляция и сжатый CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Дополнение к теме -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+    </head>
+
+    <body >
+
+<div class="page-header">
+    <h1 id="title_blog">###Blog Tagir Suleymanov</h1>
+    <h1 align="middle"><i class="fa fa-home" ><a href="/admin/">Home</a></i></h1>
+    <br>
+    <h4 id="menu" align="middle">   <a href="#">Портфолио</a>    <a href="#">Резюме</a>  <a href="#">Контакты</a></h4>
+</div>
+
+{% block content %}
+{% endblock %}
+         <!-- Последняя компиляция и сжатый JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    </body>
+</html>
